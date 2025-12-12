@@ -1,0 +1,43 @@
+{
+  "name": "capy-ui-theme",
+  "displayName": "Capy UI Theme",
+  "description": "A dark theme with electric blue accents inspired by Mastodon Capy UI",
+  "version": "1.0.0",
+  "publisher": "capy-ui",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "blue theme",
+    "capybara",
+    "capy ui"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#1c1d21",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Capy UI",
+        "uiTheme": "vs-dark",
+        "path": "./themes/capy-ui-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/capy-ui-theme"
+  },
+  "author": {
+    "name": "pppb1701",
+    "url": "https://ppb.social/@pppb1701"
+  },
+  "license": "MIT"
+}
