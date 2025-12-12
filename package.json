@@ -3,7 +3,7 @@
   "displayName": "Capy UI Theme",
   "description": "A dark theme with electric blue accents inspired by Mastodon Capy UI",
   "version": "1.0.0",
-  "publisher": "capy-ui",
+  "publisher": "PatrickBoyd",
   "engines": {
     "vscode": "^1.80.0"
   },
