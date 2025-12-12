@@ -95,7 +95,7 @@ You can customize any color in your `settings.json`:
 
 ## 📝 Feedback
 
-Found an issue or have a suggestion? Reach out on Mastodon: [@pppb1701@ppb.social](https://ppb.social/@pppb1701)
+Found an issue or have a suggestion? Reach out on Mastodon: [@ppb1701@ppb.social](https://ppb.social/@ppb1701)
 
 ## 📜 License
 

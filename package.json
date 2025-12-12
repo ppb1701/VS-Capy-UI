@@ -2,7 +2,7 @@
   "name": "capy-ui-theme",
   "displayName": "Capy UI Theme",
   "description": "A dark theme with electric blue accents inspired by Mastodon Capy UI",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "PatrickBoyd",
   "engines": {
     "vscode": "^1.80.0"
@@ -36,8 +36,8 @@
     "url": "https://github.com/yourusername/capy-ui-theme"
   },
   "author": {
-    "name": "pppb1701",
-    "url": "https://ppb.social/@pppb1701"
+    "name": "ppb1701",
+    "url": "https://ppb.social/@ppb1701"
   },
   "license": "MIT"
 }

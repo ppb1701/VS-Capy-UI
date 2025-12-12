@@ -2,6 +2,11 @@
 
 All notable changes to the "Capy UI" theme will be documented in this file.
 
+## [1.0.3] - 2025-12-11
+
+### Fixed
+- Corrected Mastodon handle in README and package.json
+
 ## [1.0.2] - 2025-12-11
 
 ### Changed
