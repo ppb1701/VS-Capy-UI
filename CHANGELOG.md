@@ -2,6 +2,20 @@
 
 All notable changes to the "Capy UI" theme will be documented in this file.
 
+## [1.0.2] - 2025-12-11
+
+### Changed
+- Clarified terminal theming description (theme colors terminal, not shell prompts)
+
+## [1.0.1] - 2025-12-11
+
+### Added
+- Screenshot showing theme in action
+- Direct marketplace link in README
+
+### Changed
+- Updated installation instructions to reflect published status
+
 ## [1.0.0] - 2025-12-11
 
 ### Added

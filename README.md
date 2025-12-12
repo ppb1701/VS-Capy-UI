@@ -27,7 +27,7 @@ A dark VS Code theme with electric blue accents, inspired by the Mastodon Capy U
 - **Accessible Contrast**: Good contrast ratios for accessibility
 - **Complete Coverage**: Both UI colors and comprehensive syntax token colors
 - **Git Integration**: Clear diff and decoration colors
-- **Terminal Theming**: Fully themed integrated terminal
+- **Terminal Theming**: Colors integrated terminal background, text, and ANSI colors (your shell prompt styling from Starship, Oh My Zsh, etc. remains separate)
 
 ## 🚀 Installation
 
