@@ -4,6 +4,8 @@ A dark VS Code theme with electric blue accents, inspired by the Mastodon Capy U
 
 ![Capy UI Theme](https://img.shields.io/badge/theme-Capy%20UI-1e80c7?style=flat-square)
 
+![Capy UI Theme Screenshot](screenshot.png)
+
 ## 🎨 Color Palette
 
 - **Primary Accent**: `#1e80c7` - Electric blue for selections, links, and active elements
@@ -29,24 +31,17 @@ A dark VS Code theme with electric blue accents, inspired by the Mastodon Capy U
 
 ## 🚀 Installation
 
-### From VS Code Marketplace (coming soon)
+### From VS Code Marketplace
 
 1. Open VS Code
 2. Go to Extensions (Ctrl+Shift+X / Cmd+Shift+X)
-3. Search for "Capy UI"
+3. Search for "Capy UI Theme"
 4. Click Install
 5. Select the theme: `Ctrl+K Ctrl+T` → "Capy UI"
 
-### Manual Installation (Development)
+**Or install directly**: [View on Marketplace](https://marketplace.visualstudio.com/items?itemName=PatrickBoyd.capy-ui-theme)
 
-1. Clone this repository
-2. Copy the folder to your VS Code extensions directory:
-   - **Windows**: `%USERPROFILE%\.vscode\extensions`
-   - **macOS/Linux**: `~/.vscode/extensions`
-3. Restart VS Code
-4. Select the theme: `Ctrl+K Ctrl+T` → "Capy UI"
-
-### From Source (for testing)
+### From Source (for development)
 
 ```bash
 cd VS-Capy-UI
